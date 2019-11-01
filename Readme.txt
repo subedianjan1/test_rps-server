@@ -9,7 +9,10 @@ $ flask run
 Command.py is the interface file that sends command to the server.
 
 
-execute test_rps-server.py
+execute test_rps-server.py with the command:
+pytest -v test_rps_sever.py
+
+
 
 
 
